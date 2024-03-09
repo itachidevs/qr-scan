@@ -21,8 +21,8 @@ The challenge includes designing a QR scan page for different viewprot width dev
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/babybhavani/qr-scan.git)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://babybhavani.github.io/qr-scan/))
 
 ## My process
 -I started coding for mobile design.<br>
